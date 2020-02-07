@@ -4,7 +4,7 @@
 
 I am Angelo 
 
-![](imagez/kobe.jpg)
+![](kobe.jpg)
 
 ## Blog post
 
