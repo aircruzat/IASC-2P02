@@ -1,4 +1,4 @@
-# IASC 2P02 | ANGELO cRUZAT
+# IASC 2P02 | ANGELO CRUZAT
 
 ## About me
 
