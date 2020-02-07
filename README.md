@@ -1,3 +1,11 @@
-# Hello World
+# IASC 2P02 | ANGELO cRUZAT
 
-this is the read me file for Solving Problems through IASC (IASC 2P02) w/ portfolio
+## About me
+
+I am Angelo 
+
+![](imagez/kobe.jpg)
+
+## Blog post
+
+First sentence of blog post goes here...
